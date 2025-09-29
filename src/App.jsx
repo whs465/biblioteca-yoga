@@ -307,6 +307,16 @@ const YogaLibrary = () => {
         pdf: "/books/Essential Yoga An Illustrated Guide to Over 100 Yoga Poses and Meditations.pdf",
       },
     },
+    {
+      id: 28,
+      title: "Light on Yoga: The Bible of Modern Yoga",
+      author: "B. K. S. Iyengar",
+      category: "Asanas",
+      cover: "/covers/Light on Yoga.png",
+      formats: {
+        pdf: "/books/Light on Yoga.pdf",
+      },
+    },
   ];
 
   const categories = [
