@@ -384,7 +384,7 @@ const YogaLibrary = () => {
       >
         {/* Buda de fondo en el header */}
         <div
-          className="absolute right-0 top-0 bottom-0 w-1/3 opacity-50 bg-cover bg-center"
+          className="absolute right-0 top-0 bottom-0 w-1/3 opacity-60 bg-cover bg-center"
           style={{
             backgroundImage: `url('/assets/buda-sereno.jpg')`,
             maskImage: "linear-gradient(to left, rgba(0,0,0,1), transparent)",
