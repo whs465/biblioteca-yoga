@@ -263,6 +263,50 @@ const YogaLibrary = () => {
         pdf: "/books/Yoga Series Yoga For Self Improvement The Yoga Study.pdf",
       },
     },
+    {
+      id: 24,
+      title:
+        "The Language of Yoga: Complete A-to-Y Guide to Asana Names, Sanskrit Terms, and Chants",
+      author: "Nicolai Bachman",
+      category: "Diccionario de Yoga",
+      cover: "/covers/The Language of Yoga.png",
+      formats: {
+        pdf: "/books/The Language of Yoga.pdf",
+      },
+    },
+    {
+      id: 25,
+      title: "Yoga Basics for Men. An Intro to Man Flow Yoga",
+      author: "Nicolai Bachman",
+      category: "Yoga para Hombres",
+      cover: "/covers/Yoga Basics for Men.png",
+      formats: {
+        pdf: "/books/Yoga Basics for Men.pdf",
+      },
+    },
+    {
+      id: 26,
+      title: "Yoga Sequencing: Designing Transformative Yoga Classes",
+      author: "Mark Sthepens",
+      category: "Guía para Profesores de Yoga",
+      cover:
+        "/covers/Yoga Sequencing - Designing Transformative Yoga Classes.png",
+      formats: {
+        pdf: "/books/Yoga Sequencing - Designing Transformative Yoga Classes.pdf",
+      },
+    },
+    {
+      id: 27,
+      title:
+        "Essential Yoga: An Illustrated Guide to Over 100 Yoga Poses and Meditations",
+      author: "Olivia H. Miller",
+      category: "Asanas",
+      cover:
+        "/covers/Essential Yoga An Illustrated Guide to Over 100 Yoga Poses and Meditations.png",
+      formats: {
+        pdf: "/books/Essential Yoga An Illustrated Guide to Over 100 Yoga Poses and Meditations.pdf",
+      },
+    },
   ];
 
   const categories = [
@@ -274,13 +318,16 @@ const YogaLibrary = () => {
     "Yoga Terapéutico",
     "Mitología",
     "Fitness",
+    "Guía para Profesores de Yoga",
     "Chair Yoga",
     "Guía para principiantes de Yoga",
     "Historia del Yoga",
     "Raja Yoga",
     "Yoga Sutras",
     "Yoga para Atletas",
+    "Diccionario de Yoga",
     "Yoga para Mujeres",
+    "Yoga para Hombres",
     "Yoga Nidra",
     "Yoga Kids",
   ];
